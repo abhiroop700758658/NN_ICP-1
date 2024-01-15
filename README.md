@@ -1,16 +1,15 @@
 # NN_ICP-1
 
-  1.
+**1. ICP_1_1**
 The provided Python code takes a word as input, creates a list of its characters, and then allows the user to input a number of strings to delete from the original word. After deletion, the code prints the reversed version of the remaining characters.
 
-Here's a brief documentation of the code:
-
-Input:
+**Input:**
 
 The user is prompted to enter a word.
 The user is prompted to enter the number of strings they want to delete.
 For each deletion, the user provides a string to be removed from the original word.
-Processing:
+
+**Processing:**
 
 The input word is converted into a list of characters (linst).
 For each deletion, the specified string is removed from the list using the remove method.
@@ -21,21 +20,15 @@ Output:
 The reversed string is printed.
 Example:
 
-arduino
-Copy code
 Enter word
-example
+python
 Enter number of strings u want to delete
 2
-p
-l
-lpmaxe
-Time Complexity:
+h
+o
+ntyp
 
-The time complexity of the code is O(n^2), where n is the length of the input word. This is because the remove method has a time complexity of O(n), and it is called for each deletion.
-Space Complexity:
-
-The space complexity is O(n), where n is the length of the input word. This is due to the creation of the list linst to store the characters of the input word.
+The time complexity of the code is O(n^2) and the space complexity is O(n)
 
 
 2.
