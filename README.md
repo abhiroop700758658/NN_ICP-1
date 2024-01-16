@@ -31,6 +31,34 @@ ntyp
 
 The time complexity of the code is O(n^2) and the space complexity is O(n)
 
+**1.1 ICP-1_1.1**
+This code is used to execute arithmetic operators
+The user is prompted to enter two integer numbers (n1 and n2).
+
+The code performs basic arithmetic operations on the input numbers.
+Addition: n1 + n2
+Subtraction: n1 - n2
+Multiplication: n1 * n2
+Division: n1 / n2
+Modular Division (Remainder): n1 % n2
+
+The results of these operations are printed.
+
+The results of the arithmetic operations (addition, subtraction, multiplication, division, and modular division) are printed.
+
+**Example:**
+**Input:**
+9
+7
+
+**Output:**
+addition: 16
+subtraction: 2
+multiplication: 63
+division: 1.28571
+modular division: 1
+
+The time complexity of the code is O(1) and the space complexity is O(1)
 
 **2. ICP-1_2**
 This code is used to modify or replace a word in a sentence.
