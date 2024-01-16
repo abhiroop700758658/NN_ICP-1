@@ -1,5 +1,7 @@
 # NN_ICP-1
 
+**Code Execution Link** : https://drive.google.com/file/d/1tpX7kWAPI6CTGpqVOXiSDYHStIGDk1u_/view?usp=sharing
+
 **1. ICP-1_1**
 The provided Python code takes a word as input, creates a list of its characters, and then allows the user to input a number of strings to delete from the original word. After deletion, the code prints the reversed version of the remaining characters.
 
